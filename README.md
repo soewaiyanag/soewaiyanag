@@ -3,7 +3,7 @@
 
 <ul style="list-style: none;">
 <li>:seedling: I'm in constant learning (currently React)</li>
-<li>:octocat: I’m looking to collaborate projects that make use of <strong>React, JavaScript, HTML, CSS, Translations</strong></li>
+<li>:octocat: I’m looking to collaborate projects that make use of <strong>React, JavaScript, HTML, CSS/SCSS, TailwindCSS</strong></li>
 <li>:myanmar: From Mandalay, Pyin Oo Lwin</li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>
 

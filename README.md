@@ -2,7 +2,7 @@
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Frontend web developer</h3>
 
 <ul style="list-style: none;">
-<li>:seedling: I'm in constant learning (currently React)</li>
+<li>:seedling: I'm in constant learning (currently Laravel)</li>
 <li>:octocat: I’m looking to collaborate projects that make use of <strong>React, JavaScript, HTML, CSS/SCSS, TailwindCSS</strong></li>
 <li>:myanmar: From Mandalay, Pyin Oo Lwin</li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>

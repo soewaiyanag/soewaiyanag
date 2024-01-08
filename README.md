@@ -1,9 +1,9 @@
 <h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Soe Wai Yan Aung<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Frontend web developer</h3>
+<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Web Developer</h3>
 
 <ul style="list-style: none;">
 <li>:seedling: I'm in constant learning (currently Laravel)</li>
-<li>:octocat: I’m looking to collaborate projects that make use of <strong>React, JavaScript, HTML, CSS/SCSS, TailwindCSS</strong></li>
+<li>:octocat: I’m looking to collaborate projects that make use of <strong>Python, React, JavaScript, TailwindCSS</strong></li>
 <li>:myanmar: From Mandalay, Pyin Oo Lwin</li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>
 
@@ -27,6 +27,9 @@
 
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react-white.svg?style=for-the-badge&logo=react&logoColor=#F7DF1E" alt="javascript"/></a>
 
+<a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/-php-white.svg?style=for-the-badge&logo=php&logoColor=#F7DF1E" alt="javascript"/></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/-laravel-white.svg?style=for-the-badge&logo=laravel&logoColor=#F7DF1E" alt="javascript"/></a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E" alt="javascript"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-white.svg?style=for-the-badge&logo=python&logoColor=#F7DF1E" alt="javascript"/></a>
 
@@ -49,10 +52,12 @@
 
 <h3>IDE & Tools</h3>
 
-<a href="https://www.sublimetext.com/" target="_blank"><img src="https://img.shields.io/badge/-sublime_text-white?logo=sublimetext&logoColor=FF9800&style=for-the-badge" alt="sublimetext"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-vs_code-white?logo=visual-studio-code&logoColor=blue&style=for-the-badge" alt="sublimetext"/></a>
-
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://img.shields.io/badge/-windows-white?logo=windows&logoColor=0078D6&style=for-the-badge" alt="windows"/></a>
+<a href="https://www.apple.com/macos/" target="_blank"><img src="https://img.shields.io/badge/-macOS-white?logo=apple&logoColor=000000&style=for-the-badge" alt="macOS"/></a>
+
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-vs_code-white?logo=visual-studio-code&logoColor=blue&style=for-the-badge" alt="sublimetext"/></a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/-PyCharm-white?logo=pycharm&logoColor=00acc1&style=for-the-badge" alt="PyCharm"/></a>
+
 <a href="https://github.com/microsoft/terminal" target="_blank"><img src="https://img.shields.io/badge/-windows_terminal-white?logo=windowsterminal&logoColor=4D4D4D&style=for-the-badge" alt="windowsterminal"/></a>
 <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/-ubuntu-white?logo=ubuntu&logoColor=E95420&style=for-the-badge" alt="ubuntu"/></a>
 <a href="https://slack.com/" target="_blank"><img src="https://img.shields.io/badge/-slack-white?logo=slack&logoColor=4A154B&style=for-the-badge" alt="slack"/></a>

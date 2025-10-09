@@ -2,11 +2,6 @@
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Web Developer</h3>
 
 <ul style="list-style: none;">
-<li>:seedling: I'm in constant learning (currently Django)</li>
-<li>:octocat: I’m looking to collaborate projects that make use of <strong>Python, React, JavaScript, TailwindCSS</strong></li>
-<li>:myanmar: From Mandalay, Pyin Oo Lwin</li>
-<li>:rocket: I'm looking for new projects and work opportunities</li>
-
 </ul>
 <br>
 

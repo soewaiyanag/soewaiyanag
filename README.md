@@ -12,13 +12,14 @@
 ---
 
 ### 👨‍💻 About Me
+
 ```javascript
 const soewaiyanag = {
-    pronouns: "he" | "him",
-    currentFocus: "Building full-stack applications",
-    improving: ["Backend Architecture", "Database Design", "API Development"],
-    experience: ["React", "Vue", "TypeScript", "Node.js", "Sequelize"],
-    funFact: "I love turning ideas into reality with code"
+  pronouns: "he" | "him",
+  currentFocus: "Building full-stack applications",
+  improving: ["Backend Architecture", "Database Design", "API Development"],
+  experience: ["React", "Vue", "TypeScript", "Node.js", "Sequelize"],
+  funFact: "I love turning ideas into reality with code",
 };
 ```
 
@@ -36,6 +37,7 @@ const soewaiyanag = {
 <div align="center">
 
 #### Frontend Development
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -44,24 +46,29 @@ const soewaiyanag = {
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Styling Frameworks
+
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### Backend Development
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
 #### Tools & Version Control
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
 #### Testing
+
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 #### Development Environment
+
 ![Zed](https://img.shields.io/badge/-Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)

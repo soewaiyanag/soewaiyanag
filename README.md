@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Soe+Wai+Yan+Aung;Frontend+Developer;Improving+Backend+Skills" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Soe+Wai+Yan+Aung;Full-Stack+Developer;" alt="Typing SVG" />
 
-<h3 align="center">A passionate frontend developer with backend experience</h3>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soewaiyanag&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -90,26 +89,20 @@ const soewaiyanag = {
   
   **This Week I Spent My Time On:**
 ```text
-  💻 Full-Stack Development  ████████████░░░░░   60%
+  💻 Full-Stack Development  ██████████████░░░   70%
   🎨 UI/UX Design            ███░░░░░░░░░░░░░░   15%
-  📚 Backend Architecture    █████░░░░░░░░░░░░   25%
-```
-  
-  **Coding Time Breakdown:**
+  📚 Backend Architecture    ██████████░░░░░░░   50%
+````
+
+**Coding Time Breakdown:**
+
 ```text
-  TypeScript   ██████████░░░░░░░░░░   50%
+  TypeScript   ████████████████░░░░   80%
   JavaScript   ██████░░░░░░░░░░░░░░   30%
   HTML/CSS     ████░░░░░░░░░░░░░░░░   20%
 ```
+
 </details>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soewaiyanag&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
 
 ---
 
@@ -133,14 +126,6 @@ const soewaiyanag = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soewaiyanag/soewaiyanag/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soewaiyanag/soewaiyanag/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-### 💭 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
 
 ---
 

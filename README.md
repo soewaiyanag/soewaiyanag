@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Soe+Wai+Yan+Aung;Full-Stack+Developer;" alt="Typing SVG" />
 
-</div>
+</
+div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soewaiyanag&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -24,9 +25,7 @@ const soewaiyanag = {
 
 - 🔭 I'm currently working on **Full-Stack Projects**
 - 🌱 I'm improving my **Backend Development Skills**
-- 💼 Experience with **Node.js and Sequelize ORM**
 - 💬 Ask me about **React, Vue, TypeScript, JavaScript**
-- 📫 How to reach me **[Frontend Mentor](https://www.frontendmentor.io/profile/soewaiyanag)**
 - ⚡ Fun fact **I debug with console.log() and I'm proud of it!**
 
 ---

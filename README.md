@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Soe+Wai+Yan+Aung;Full-Stack+Developer;" alt="Typing SVG" />
-
-</
-div>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soewaiyanag&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -13,20 +11,61 @@ div>
 
 ### 👨‍💻 About Me
 
-```javascript
-const soewaiyanag = {
-  pronouns: "he" | "him",
-  currentFocus: "Building full-stack applications",
-  improving: ["Backend Architecture", "Database Design", "API Development"],
-  experience: ["React", "Vue", "TypeScript", "Node.js", "Sequelize"],
-  funFact: "I love turning ideas into reality with code",
-};
-```
-
-- 🔭 I'm currently working on **Full-Stack Projects**
-- 🌱 I'm improving my **Backend Development Skills**
-- 💬 Ask me about **React, Vue, TypeScript, JavaScript**
-- ⚡ Fun fact **I debug with console.log() and I'm proud of it!**
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <h3>Hi there! 👋 I'm <b>Soe Wai Yan Aung</b></h3>
+      <p>
+        A <strong>Full-Stack Developer</strong> passionate about building clean,
+        scalable web applications. I love turning ideas into reality with code
+        and constantly levelling up my craft.
+      </p>
+      <br/>
+      <table>
+        <tr>
+          <td>👤</td>
+          <td><b>Pronouns</b></td>
+          <td>He / Him</td>
+        </tr>
+        <tr>
+          <td>🎯</td>
+          <td><b>Current Focus</b></td>
+          <td>Full-Stack Applications</td>
+        </tr>
+        <tr>
+          <td>📚</td>
+          <td><b>Improving</b></td>
+          <td>Backend · Database Design · APIs</td>
+        </tr>
+        <tr>
+          <td>💼</td>
+          <td><b>Stack</b></td>
+          <td>React · Vue · TypeScript · Node.js</td>
+        </tr>
+        <tr>
+          <td>💬</td>
+          <td><b>Ask Me About</b></td>
+          <td>React · Vue · TypeScript · JavaScript</td>
+        </tr>
+        <tr>
+          <td>🐛</td>
+          <td><b>Debug Style</b></td>
+          <td><code>console.log()</code> and proud of it!</td>
+        </tr>
+        <tr>
+          <td>🤝</td>
+          <td><b>Open To</b></td>
+          <td>Interesting full-stack collaborations</td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" width="45%">
+      <img src="https://github-readme-stats.vercel.app/api?username=soewaiyanag&show_icons=true&theme=react&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=soewaiyanag&theme=react&hide_border=true" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -76,32 +115,12 @@ const soewaiyanag = {
 
 ---
 
-### 📊 GitHub Activity & Contributions
+### 📊 GitHub Activity
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soewaiyanag&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=soewaiyanag&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
-
-<details>
-  <summary>📈 More Stats</summary>
-  <br/>
-  
-  **This Week I Spent My Time On:**
-```text
-  💻 Full-Stack Development  ██████████████░░░   70%
-  🎨 UI/UX Design            ███░░░░░░░░░░░░░░   15%
-  📚 Backend Architecture    ██████████░░░░░░░   50%
-````
-
-**Coding Time Breakdown:**
-
-```text
-  TypeScript   ████████████████░░░░   80%
-  JavaScript   ██████░░░░░░░░░░░░░░   30%
-  HTML/CSS     ████░░░░░░░░░░░░░░░░   20%
-```
-
-</details>
 
 ---
 

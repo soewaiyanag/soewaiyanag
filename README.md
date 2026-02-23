@@ -9,71 +9,22 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
-      <h3>Hi there! 👋 I'm <b>Soe Wai Yan Aung</b></h3>
-      <p>
-        A <strong>Full-Stack Developer</strong> passionate about building clean,
-        scalable web applications. I love turning ideas into reality with code
-        and constantly levelling up my craft.
-      </p>
-      <br/>
-      <table>
-        <tr>
-          <td>👤</td>
-          <td><b>Pronouns</b></td>
-          <td>He / Him</td>
-        </tr>
-        <tr>
-          <td>🎯</td>
-          <td><b>Current Focus</b></td>
-          <td>Full-Stack Applications</td>
-        </tr>
-        <tr>
-          <td>📚</td>
-          <td><b>Improving</b></td>
-          <td>Backend · Database Design · APIs</td>
-        </tr>
-        <tr>
-          <td>💼</td>
-          <td><b>Stack</b></td>
-          <td>React · Vue · TypeScript · Node.js</td>
-        </tr>
-        <tr>
-          <td>💬</td>
-          <td><b>Ask Me About</b></td>
-          <td>React · Vue · TypeScript · JavaScript</td>
-        </tr>
-        <tr>
-          <td>🐛</td>
-          <td><b>Debug Style</b></td>
-          <td><code>console.log()</code> and proud of it!</td>
-        </tr>
-        <tr>
-          <td>🤝</td>
-          <td><b>Open To</b></td>
-          <td>Interesting full-stack collaborations</td>
-        </tr>
-      </table>
-    </td>
-    <td valign="top" width="45%">
-      <img src="https://github-readme-stats.vercel.app/api?username=soewaiyanag&show_icons=true&theme=react&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=soewaiyanag&theme=react&hide_border=true" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+Full-Stack Developer passionate about building clean, scalable web applications. I love turning ideas into reality with code and constantly levelling up my craft.
+
+- 🔭 Currently working on **full-stack web applications**
+- 🌱 Improving my **Backend Architecture**, **Database Design**, and **API Development**
+- 💼 Experience with **React**, **Vue**, **TypeScript**, **Node.js**, and **Sequelize**
+- 💬 Ask me about **React · Vue · TypeScript · JavaScript**
+- ⚡ Fun fact: I debug with `console.log()` and I'm proud of it!
+- 🤝 Open to interesting **full-stack collaborations**
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-<div align="center">
-
-#### Frontend Development
+**Frontend**
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -81,50 +32,49 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### Styling Frameworks
-
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### Backend Development
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
-#### Tools & Version Control
+**Tools & Environment**
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-
-#### Testing
-
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-#### Development Environment
-
-![Zed](https://img.shields.io/badge/-Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Zed](https://img.shields.io/badge/-Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-</div>
-
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soewaiyanag&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=soewaiyanag&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soewaiyanag&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soewaiyanag&theme=react&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soewaiyanag&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-### 🌐 Connect with me
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soewaiyanag&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🌐 Connect
 
 <p align="center">
   <a href="https://github.com/soewaiyanag" target="_blank">
@@ -137,7 +87,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soewaiyanag/soewaiyanag/output/github-contribution-grid-snake-dark.svg">
@@ -149,10 +99,6 @@
 
 <p align="center">
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
-
-<p align="center">
-  <i>💡 Open to collaborating on interesting full-stack projects</i>
 </p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />

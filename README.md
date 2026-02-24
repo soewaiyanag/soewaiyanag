@@ -18,6 +18,7 @@ Full-Stack Developer passionate about building clean, scalable web applications.
 - 💼 Experience with **React**, **Vue**, **TypeScript**, **Node.js**, and **Sequelize**
 - 💬 Ask me about **React · Vue · TypeScript · JavaScript**
 - ⚡ Fun fact: I debug with `console.log()` and I'm proud of it!
+- 🌍 Portfolio: **[soewaiyanag.dev](https://soewaiyanag.dev)**
 - 🤝 Open to interesting **full-stack collaborations**
 
 ---
@@ -77,6 +78,9 @@ Full-Stack Developer passionate about building clean, scalable web applications.
 ## 🌐 Connect
 
 <p align="center">
+  <a href="https://soewaiyanag.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-soewaiyanag.dev-7AA2F7?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://github.com/soewaiyanag" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>

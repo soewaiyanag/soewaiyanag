@@ -1,27 +1,23 @@
-# Soe Wai Yan Aung
+<div align="center">
 
-  I build web applications, front to back. My standards are simple: **reliable, readable, built to last.**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1200&color=8A3DA6&center=true&vCenter=true&width=560&lines=Soe+Wai+Yan+Aung.;Full-stack+developer.;Node.js+%C2%B7+TypeScript+%C2%B7+React" alt="Soe Wai Yan Aung" />
 
-  🌱 Currently going deep on **Go**, with a React refresh next.
+<p>
+  <a href="https://soewaiyanag.dev"><img src="https://img.shields.io/badge/Portfolio-soewaiyanag.dev-8A3DA6?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://soewaiyanag.dev/cv"><img src="https://img.shields.io/badge/Resume-View-8A3DA6?style=flat-square" alt="Resume" /></a>
+  <a href="mailto:hello@soewaiyanag.dev"><img src="https://img.shields.io/badge/Email-hello@soewaiyanag.dev-8A3DA6?style=flat-square" alt="Email" /></a>
+</p>
 
-  🌐 [soewaiyanag.dev](https://soewaiyanag.dev) · ✉️  hello@soewaiyanag.dev
+</div>
 
-  ## Background
+Full-stack developer — two years building production backend APIs (Node.js, Express, MySQL), years of React and Vue before that. Currently finishing a B.Sc. in ICT, graduating December 2026.
 
-  Two years as a backend developer (2024–2026), building and maintaining the APIs and services behind production apps — Node.js, Express, and MySQL at the core. Years of React before that. Now pulling the two halves back together.
+<div align="center">
 
-  ## Stack
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,ts,react,vue,js,tailwind,git,docker,jest&perline=6" alt="Stack" />
 
-  |              |                                                              |
-  | ------------ | ------------------------------------------------------------ |
-  | **Frontend** | React · Vue · TypeScript · Tailwind CSS                       |
-  | **Backend**  | Node.js · Express · REST APIs · MySQL · Python · Go *(learning)* |
-  | **Tools**    | Git / GitHub · Docker · Linux / Bash · Jest · Postman · Zed   |
+</div>
 
-  ## Elsewhere
+## About the repos here
 
-  [Frontend Mentor](https://www.frontendmentor.io/profile/soewaiyanag) — design challenges that sharpened my frontend.
-
-  ---
-
-  ⚡ Fun fact: I debug with `console.log()` and I'm proud of it.
+Most of what's pinned are [Frontend Mentor](https://www.frontendmentor.io/profile/soewaiyanag) challenges — each one was picked to deliberately practice something specific (typed state, component architecture, API integration) before it showed up in production work.

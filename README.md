@@ -19,11 +19,9 @@ Full-stack developer — two years building production backend APIs (Node.js, Ex
 
 ## Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,ts,react,vue,js,tailwind,git,docker,jest&perline=6" alt="Stack" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,ts,react,vue,js,tailwind,git,docker,jest&perline=6" alt="Stack" />
+</p>
 
 <br />
 
@@ -46,18 +44,38 @@ Full-stack developer — two years building production backend APIs (Node.js, Ex
 </tr>
 </table>
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=soewaiyanag&theme=transparent&hide_border=true&ring=c678dd&fire=c678dd&currStreakLabel=c678dd&currStreakNum=dfe3ea&sideNums=dfe3ea&sideLabels=9da5b4&dates=6e7484" />
+  <img src="https://streak-stats.demolab.com/?user=soewaiyanag&theme=transparent&hide_border=true&ring=8a3da6&fire=8a3da6&currStreakLabel=8a3da6&currStreakNum=1c1e24&sideNums=2a2d35&sideLabels=5b606c&dates=9ca3af" alt="GitHub Streak" />
+</picture>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=soewaiyanag&theme=minimal&hide_border=true&bg_color=00000000&color=c678dd&line=c678dd&point=c678dd&area=true&area_color=c678dd" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soewaiyanag&theme=minimal&hide_border=true&bg_color=00000000&color=8a3da6&line=8a3da6&point=8a3da6&area=true&area_color=8a3da6" alt="Activity Graph" width="100%" />
+</picture>
+</p>
+
 <br />
 
-## Featured Projects
+## Trophies
 
-**[Kanban Task Manager](https://kanban-task-management-web-app-ts.vercel.app)** — Drag-and-drop board with nested subtasks and full TypeScript state modeling.
-`Vue 3` `Pinia` `TypeScript`
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=soewaiyanag&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="Trophies" />
+</p>
 
-**[Entertainment Web App](https://entertainment-web-app-one-fawn.vercel.app)** — Movie/TV discovery app with strict, end-to-end typed API responses.
-`React` `TypeScript` `REST API`
+<br />
 
-**[Portfolio Website](https://soewaiyanag.dev)** — Next.js 15 App Router site, server components throughout, deployed on Vercel.
-`Next.js` `TypeScript` `Tailwind CSS`
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soewaiyanag/soewaiyanag/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/soewaiyanag/soewaiyanag/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ## About the repos here
 

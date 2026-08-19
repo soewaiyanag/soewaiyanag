@@ -25,49 +25,6 @@ Full-stack developer — two years building production backend APIs (Node.js, Ex
 
 <br />
 
-## GitHub Activity
-
-<table align="center">
-<tr>
-<td width="50%">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=soewaiyanag&show_icons=true&theme=transparent&hide_border=true&title_color=c678dd&icon_color=c678dd&text_color=dfe3ea" />
-  <img src="https://github-readme-stats.vercel.app/api?username=soewaiyanag&show_icons=true&theme=transparent&hide_border=true&title_color=8a3da6&icon_color=8a3da6&text_color=2a2d35" alt="GitHub Stats" width="100%" />
-</picture>
-</td>
-<td width="50%">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soewaiyanag&layout=compact&theme=transparent&hide_border=true&title_color=c678dd&text_color=dfe3ea&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soewaiyanag&layout=compact&theme=transparent&hide_border=true&title_color=8a3da6&text_color=2a2d35&langs_count=8" alt="Top Languages" width="100%" />
-</picture>
-</td>
-</tr>
-</table>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=soewaiyanag&theme=transparent&hide_border=true&ring=c678dd&fire=c678dd&currStreakLabel=c678dd&currStreakNum=dfe3ea&sideNums=dfe3ea&sideLabels=9da5b4&dates=6e7484" />
-  <img src="https://streak-stats.demolab.com/?user=soewaiyanag&theme=transparent&hide_border=true&ring=8a3da6&fire=8a3da6&currStreakLabel=8a3da6&currStreakNum=1c1e24&sideNums=2a2d35&sideLabels=5b606c&dates=9ca3af" alt="GitHub Streak" />
-</picture>
-</p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=soewaiyanag&theme=minimal&hide_border=true&bg_color=00000000&color=c678dd&line=c678dd&point=c678dd&area=true&area_color=c678dd" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soewaiyanag&theme=minimal&hide_border=true&bg_color=00000000&color=8a3da6&line=8a3da6&point=8a3da6&area=true&area_color=8a3da6" alt="Activity Graph" width="100%" />
-</picture>
-</p>
-
-<br />
-
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soewaiyanag&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="Trophies" />
-</p>
-
-<br />
-
 ## Contribution Snake
 
 <p align="center">

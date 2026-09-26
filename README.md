@@ -13,7 +13,7 @@
 
 </div>
 
-I like backend systems that hold up under real use, and frontend that doesn't get in the way of the data. Based in Myanmar, finishing a B.Sc. in ICT along the way.
+Full-stack developer based in Myanmar, working mainly with React, TypeScript and Node.js.
 
 <br />
 

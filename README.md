@@ -50,15 +50,6 @@ const soe = {
 
 <br /><br />
 
-<h3>Most Used Languages</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soewaiyanag&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soewaiyanag&theme=github" alt="Most used languages" />
-</picture>
-
-<br /><br />
-
 <h3>Contributions</h3>
 
 <picture>

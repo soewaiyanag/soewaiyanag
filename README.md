@@ -23,13 +23,13 @@ I like backend systems that hold up under real use, and frontend that doesn't ge
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=express,mysql,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,git,docker" />
+  <img src="https://skillicons.dev/icons?i=vuejs,tailwind,mysql,git" />
 </p>
 
 <br />

@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1200&color=C678DD&center=true&vCenter=true&width=560&lines=Soe+Wai+Yan+Aung.;builds+things+end+to+end.;APIs+that+hold+up%2C+UIs+that+don%27t+get+in+the+way." />
- <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1200&color=8A3DA6&center=true&vCenter=true&width=560&lines=Soe+Wai+Yan+Aung.;Full-Stack+Developer." alt="Soe Wai Yan Aung, Full-Stack Developer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1200&color=C678DD&center=true&vCenter=true&width=560&lines=Soe+Wai+Yan+Aung.;Full-Stack+Developer." />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1200&color=8A3DA6&center=true&vCenter=true&width=560&lines=Soe+Wai+Yan+Aung.;Full-Stack+Developer." alt="Soe Wai Yan Aung, Full-Stack Developer" />
 </picture>
 
 <p>

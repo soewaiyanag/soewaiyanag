@@ -53,8 +53,8 @@ const soe = {
 <h3>Most Used Languages</h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soewaiyanag&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=C678DD&text_color=C9D1D9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soewaiyanag&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=8A3DA6&text_color=24292F" alt="Most used languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soewaiyanag&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soewaiyanag&theme=github" alt="Most used languages" />
 </picture>
 
 <br /><br />

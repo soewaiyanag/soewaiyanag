@@ -1,51 +1,5 @@
-<div align="center">
+# Soe Wai Yan Aung
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=28&pause=1200&color=C678DD&center=true&vCenter=true&width=560&lines=Soe+Wai+Yan+Aung;Full-Stack+Developer" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=28&pause=1200&color=8A3DA6&center=true&vCenter=true&width=560&lines=Soe+Wai+Yan+Aung;Full-Stack+Developer" alt="Soe Wai Yan Aung, Full-Stack Developer" />
-</picture>
+Full-stack developer working with React, TypeScript and Node.js. Open to full-time, remote and freelance work.
 
-<p>Full-stack developer based in Myanmar, working mainly with React, TypeScript and Node.js.</p>
-
-<p>
-  <a href="https://soewaiyanag.dev"><img src="https://img.shields.io/badge/Portfolio-soewaiyanag.dev-8A3DA6?style=flat-square" alt="Portfolio" /></a>
-  <a href="https://soewaiyanag.dev/cv.pdf"><img src="https://img.shields.io/badge/Resume-View-8A3DA6?style=flat-square" alt="Resume" /></a>
-  <a href="mailto:hello@soewaiyanag.dev"><img src="https://img.shields.io/badge/Email-hello%40soewaiyanag.dev-8A3DA6?style=flat-square" alt="Email" /></a>
-</p>
-
-</div>
-
-<br />
-
-```ts
-const soe = {
-  role: "Full-Stack Developer",
-  location: "Myanmar",
-  education: "B.Sc. ICT, Rangsit University (graduating Dec 2026)",
-  openTo: ["Frontend", "Backend", "Full-stack", "Remote"],
-};
-```
-
-<br />
-
-<div align="center">
-
-<h3>Tech Stack</h3>
-
-<sub><b>FRONTEND</b></sub>
-<br /><br />
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vuejs,tailwind&perline=8" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Tailwind CSS" />
-
-<br /><br />
-
-<sub><b>BACKEND</b></sub>
-<br /><br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,aws&perline=4" alt="Node.js, Express, MySQL, AWS" />
-
-<br /><br />
-
-<sub><b>TOOLS</b></sub>
-<br /><br />
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Git, GitHub, VS Code" />
-
-</div>
+[Portfolio](https://soewaiyanag.dev) · [Resume](https://soewaiyanag.dev/cv.pdf) · [Email](mailto:hello@soewaiyanag.dev)

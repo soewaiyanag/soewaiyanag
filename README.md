@@ -48,13 +48,4 @@ const soe = {
 <br /><br />
 <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Git, GitHub, VS Code" />
 
-<br /><br />
-
-<h3>Contributions</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soewaiyanag/soewaiyanag/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/soewaiyanag/soewaiyanag/output/github-contribution-grid-snake.svg" />
-</picture>
-
 </div>
